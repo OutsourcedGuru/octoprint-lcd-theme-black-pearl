@@ -6,7 +6,7 @@ An attractive Conky theme for an LCD attached to a 3D printer running OctoPrint
 ## Overview
 The stock Robo C2 printer from Robo 3D had a Kivy-based touchscreen interface but I thought I'd mod the 3D printer to make something unique.
 
-> [Black Pearl](http://ninquitassar.deviantart.com/) was the original Conky theme from which this was inspired but was completely changed to accommodate the latest version of Conky itself and the limited resolution of this device
+> [Black Pearl](https://www.deviantart.com/art/Black-Pearl-Conky-281468275) was the original Conky theme from which this was inspired but was completely changed to accommodate the latest version of Conky itself and the limited resolution of this device
 
 > [Conky](https://github.com/brndnmtthws/conky) is a light-weight system monitor for the X11 graphics system which allows a variety of customization options to allow styling, running on a variety of UNIX flavors
 
