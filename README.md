@@ -68,3 +68,8 @@ All the clock charts are produced inside the `clock.lua` file. I have organized 
 In the unlikely event that you're trying to run this from a Raspberry Pi Zero, you'll want to comment out three of the core rings and the corresponding text for those. You'll then need to adjust the `${voffset}` for the following section back in the `.conkyrc` file.
 
 I'm assuming that you're using the embedded wi-fi adapter `wlan0` in the Raspi. If you are using a USB-based wi-fi adapter then you would need to discover the adapter's name using `ifconfig` and then update the two files to replace.
+
+|Donate||Cryptocurrency|
+|:-----:|---|:--------:|
+| ![eth-receive](https://user-images.githubusercontent.com/15971213/40564950-932d4d10-601f-11e8-90f0-459f8b32f01c.png) || ![btc-receive](https://user-images.githubusercontent.com/15971213/40564971-a2826002-601f-11e8-8d5e-eeb35ab53300.png) |
+|Ethereum||Bitcoin|
